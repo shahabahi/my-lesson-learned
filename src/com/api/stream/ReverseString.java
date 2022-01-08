@@ -1,4 +1,4 @@
-package com.api.stringreverse;
+package com.api.stream;
 
 public class ReverseString {
     public static void main(String[] args) {
