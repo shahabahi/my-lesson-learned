@@ -1,1 +1,0 @@
-Lambda expression is an anonymous function ( without name, return type and access modifier and having one lambda symbol )
